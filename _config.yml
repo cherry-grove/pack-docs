@@ -1,6 +1,7 @@
 title: Pack Docs
 description: Documentation for content pack development in CherryGrove.
 theme: just-the-docs
+color_scheme: dark
 
 url: https://docs.cherrygrove.dev
 
